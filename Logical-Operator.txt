@@ -1,0 +1,8 @@
+	
+
+				JS-Class-12
+
+
+	1) JavaScript Realational Operator;
+	
+	2) JavaScript Logical Operator;
